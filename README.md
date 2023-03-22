@@ -19,6 +19,7 @@
 ```
 
 4. To run
+After launching, run this code
 
 ```bash
   rosrun <package_name> navigator.py

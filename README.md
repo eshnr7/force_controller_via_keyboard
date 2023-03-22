@@ -18,8 +18,7 @@
   chmod +x navigator.py
 ```
 
-4. To run
-After launching, run this code
+4. After launching the ros_scenario package, run this code
 
 ```bash
   rosrun <package_name> navigator.py
